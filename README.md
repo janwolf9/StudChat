@@ -11,6 +11,6 @@ A chat website.
 [Angular CLI](https://cli.angular.io/)
 
 
-[Installation]: https://github.com/audioXD/StudChat/blob/master/doc/getting-started.md
-[Getting Started]: https://github.com/audioXD/StudChat/blob/master/doc/installation.md
-[Project Structure]: https://github.com/audioXD/StudChat/blob/master/doc/project-structure.md
+[Installation]: https://github.com/audioXD/StudChat/blob/master/doc/app/getting-started.md
+[Getting Started]: https://github.com/audioXD/StudChat/blob/master/doc/app/installation.md
+[Project Structure]: https://github.com/audioXD/StudChat/blob/master/doc/app/project-structure.md
