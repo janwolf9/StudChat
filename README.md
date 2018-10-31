@@ -1,27 +1,15 @@
-# StudChat
+# StudChat [![Build Status](http://adx-audioxd.ddns.net:8090/job/StudChat/badge/icon)](http://adx-audioxd.ddns.net:8090/job/StudChat/) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/audioXD/StudChat/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/audioXD/StudChat.svg?style=social&label=Fork)](https://github.com/angular/angular-cli/fork) [![GitHub stars](https://img.shields.io/github/stars/audioXD/StudChat.svg?style=social&label=Star)](https://github.com/angular/angular-cli)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.0-rc.1.
 
-## Development server
+A chat website.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* [Installation]
+* [Getting Started]
+* [Project Structure]
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+[Installation]: https://github.com/audioXD/StudChat/blob/master/doc/getting-started.md
+[Getting Started]: https://github.com/audioXD/StudChat/blob/master/doc/installation.md
+[Project Structure]: https://github.com/audioXD/StudChat/blob/master/doc/project-structure.md
